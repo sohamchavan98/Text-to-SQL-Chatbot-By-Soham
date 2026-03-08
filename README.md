@@ -1,4 +1,4 @@
-# 🗣️ Text to SQL Chatbot
+# Text to SQL Chatbot By Soham
 
 Welcome to the **Text to SQL Chatbot** project! This project aims to bridge the gap between non-technical team members and database interactions, allowing users to query databases using natural language instead of SQL.
 
@@ -47,8 +47,6 @@ The architecture of the Text to SQL Chatbot consists of the following components
 - **LLM Chain**: Uses a large language model to convert natural language questions into SQL queries.
 - **Output Parser**: Processes the SQL query output and formats it for user display.
 
-<img width="1546" height="712" alt="image" src="https://github.com/user-attachments/assets/720e2ea2-b91a-4c06-b250-f55a19006c72" />
-
  📊 Evaluation
 The performance of the chatbot can be evaluated using various metrics, including:
 - **Accuracy**: How accurately the LLM generates the correct SQL queries.
@@ -60,16 +58,3 @@ There are several ways to enhance this project:
 - **Multiple LLMs**: Experiment with other large language models for better accuracy.
 - **User Interface**: Develop a web interface using Flask or Streamlit for easier interaction.
 - **Deployment**: Host the application on cloud platforms to make it accessible to a wider audience.
-
- 📄 License
-This project is licensed under the MIT License. See the LICENSE file for more details.
-
----
-
-Feel free to contribute to this project or reach out with any questions! Happy coding! 🎉
-```
-
-# Notes:
-- Replace `pik1989` in the clone command with your actual GitHub username.
-- Update the path to the architecture diagram image in the Markdown.
-- Customize any sections as needed to better fit your project specifics.
